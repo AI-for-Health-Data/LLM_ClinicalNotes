@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchainhub
+langserve
+ollama
+pandas
+scikit-learn
+tqdm
